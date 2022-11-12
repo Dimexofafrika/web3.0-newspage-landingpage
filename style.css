@@ -1,0 +1,122 @@
+header{
+    padding: 30px 0px 20px 0px;
+    margin-bottom: 20px;
+}
+header nav{
+    float: right;
+}
+header nav ul li{
+    list-style-type: none;
+    float: left;
+    margin-left: 40px;
+}
+header nav ul li a{
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+section .title .img{
+    height: auto;
+    width: 100%;
+}
+section .title .img img{
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+section .title .imgstory {
+    display: flex;
+
+}
+section .title .imgstory h1{
+    font-size: 30px;
+    text-transform: capitalize;
+    font-weight: 800;
+    color: #00001a;
+    margin-right: 200px;
+}
+section .title .imgstory p{
+    text-align: justify;
+}
+section .title .imgstory a{
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #f15d51;
+    color: white;
+    font-size: 12px;
+    padding: 10px 20px;
+}
+section .title .grid-container .grid-30{
+    background-color: #00001a;
+    height: 470px;
+}
+section .title .grid-container .grid-30 .content h1{
+    text-transform: capitalize;
+    color: #e9af4e;
+    font-family: sans-serif;
+    padding-left: 10px;
+    
+}
+section .title .grid-container .grid-30 .content h4{
+    text-transform: capitalize;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-left: 10px;
+    
+}
+section .title .grid-container .grid-30 .content p{
+    text-transform: capitalize;
+    color: white;
+    font-size: 10px;
+    font-family: sans-serif;
+    padding-left: 10px;
+}
+.section-b{
+    margin-top: 50px;
+}
+.section-b .img1{
+    height: auto;
+    width: 100%;
+}
+.section-b .img1 img{
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+.section-b h1{
+    font-family: sans-serif;
+    color: #c9cacf;
+    margin-top: -2px;
+}
+.section-b  h4{
+    margin-top: -10px;
+    font-size: 14px;
+    text-transform: capitalize;
+    font-weight: 900;
+}
+.section-b p{
+    font-weight: lighter;
+    margin-top: -10px;
+}
+.section-b .img2{
+    height: auto;
+    width: 100%;
+}
+.section-b .img2 img{
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+.section-b .img3{
+    height: auto;
+    width: 100%;
+}
+.section-b .img3 img{
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
